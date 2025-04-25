@@ -3,8 +3,8 @@
     'version': '1.0',
     'summary': 'PayU Payment Gateway Integration',
     'description': 'Integrates PayU payment gateway with Odoo.',
-    'author': 'Your Name',
-    'website': 'Your Website',
+    'author': 'Pelocal Test',
+    'website': 'pelocal_test',
     'category': 'Payment Acquirers',
     'depends': ['payment', 'account'],
     'data': [
